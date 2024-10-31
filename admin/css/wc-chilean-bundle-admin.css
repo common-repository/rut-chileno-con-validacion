@@ -1,0 +1,9 @@
+.wc-chilean-bundle_about-us {
+    padding: 10px 20px;
+    border: 1px solid #6689bb;
+    background-color: #f0f6ff;
+    border-radius: 15px;
+}
+.wc-chilean-bundle_about-us p {
+    font-size: larger;
+}
